@@ -21,6 +21,29 @@ import Task23_2 from './tasks/23_2'
 import Task24_1 from './tasks/24_1'
 import Task24_2 from './tasks/24_2'
 import Task24_3 from './tasks/24_3'
+import Task26_1 from './tasks/26_1'
+import Task27_1 from './tasks/27_1'
+import Task28_1 from './tasks/28_1'
+import Task29_1 from './tasks/29_1'
+import Task30_1 from './tasks/30_1'
+import Task31_1 from './tasks/31_1'
+import Task32_1 from './tasks/32_1'
+import Task33_1 from './tasks/33_1'
+import Task34_1 from './tasks/34_1'
+import Task35_1 from './tasks/35_1'
+import Task35_2 from './tasks/35_2'
+import Task36_1 from './tasks/36_1-2'
+import Task36_3 from './tasks/36_3'
+import Task36_4 from './tasks/36_4'
+import Task37_1 from './tasks/37_1'
+import Task38_1 from './tasks/38_1'
+import Task39_1 from './tasks/39_1'
+import Task40_1 from './tasks/40_1'
+import Task41_1 from './tasks/41_1'
+import Task42_1 from './tasks/42_1'
+import Task43_1 from './tasks/43_1'
+import Task47_1 from './tasks/47_1'
+import Task48_1 from './tasks/48'
 import './App.scss'
 
 function App() {
@@ -71,6 +94,52 @@ function App() {
       <Task24_2/>
       <p>24.3</p>
       <Task24_3/>
+      <p>26.1</p>
+      <Task26_1/>
+      <p>27.1</p>
+      <Task27_1/>
+      <p>28.1</p>
+      <Task28_1/>
+      <p>29.1</p>
+      <Task29_1/>
+      <p>30.1</p>
+      <Task30_1/>
+      <p>31.1</p>
+      <Task31_1/>
+      <p>32.1</p>
+      <Task32_1/>
+      <p>33.1</p>
+      <Task33_1/>
+      <p>34.1</p>
+      <Task34_1/>
+      <p>35.1</p>
+      <Task35_1/>
+      <p>35.2</p>
+      <Task35_2/>
+      <p>36.1-2</p>
+      <Task36_1/>
+      <p>36.3</p>
+      <Task36_3/>
+      <p>36.4</p>
+      <Task36_4/>
+      <p>37.1</p>
+      <Task37_1/>
+      <p>38.1</p>
+      <Task38_1/>
+      <p>39.1</p>
+      <Task39_1/>
+      <p>40.1</p>
+      <Task40_1/>
+      <p>41.1</p>
+      <Task41_1/>
+      <p>42.1</p>
+      <Task42_1/>
+      <p>43.1</p>
+      <Task43_1/>
+      <p>47.1</p>
+      <Task47_1/>
+      <p>48.1</p>
+      <Task48_1/>
     </>
   )
 }
